@@ -1,0 +1,10 @@
+function onCreate()
+    makeLuaSprite('sky', 'stages/Outside/sky', -1340, -1000)
+    scaleObject('sky', 1.5, 1.5)
+    setLuaSpriteScrollFactor('sky', 0.2, 0.2)
+    --setProperty('sky.zoomFactor', 0.2)
+    addLuaSprite('sky', false)
+    makeLuaSprite('street', 'stages/Outside/Houses', -1800, -1400)
+    scaleObject('street', 1.8, 1.8)
+    addLuaSprite('street', false)
+end

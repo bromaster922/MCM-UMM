@@ -1,0 +1,128 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				15
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-65
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				91
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				7,
+				61
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-9,
+				29
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "Clarinet Left"
+		},
+		{
+			"offsets": [
+				15,
+				16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "Clarinet Down"
+		},
+		{
+			"offsets": [
+				18,
+				103
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "Clarinet Up"
+		},
+		{
+			"offsets": [
+				-38,
+				43
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "Clarinet Right"
+		}
+	],
+	"taunts": [
+		"hey",
+		"idle",
+		"hey",
+		"idle"
+	],
+	"no_antialiasing": false,
+	"image": "characters/humiliation/squidward_final",
+	"position": [
+		-70,
+		-110
+	],
+	"healthicon": "Squidward",
+	"flip_x": false,
+	"healthbar_colors": [
+		117,
+		176,
+		165
+	],
+	"camera_position": [
+		160,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

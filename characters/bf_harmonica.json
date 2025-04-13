@@ -1,0 +1,84 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Hidle"
+		},
+		{
+			"offsets": [
+				30,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Hleft"
+		},
+		{
+			"offsets": [
+				18,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Hdown"
+		},
+		{
+			"offsets": [
+				0,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Hup"
+		},
+		{
+			"offsets": [
+				6,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Hright"
+		}
+	],
+	"taunts": [
+		"hey",
+		"hey",
+		"hey",
+		"hey"
+	],
+	"no_antialiasing": false,
+	"image": "characters/humiliation/bf_harmonica",
+	"position": [
+		-30,
+		180
+	],
+	"healthicon": "bf_mcm",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-70,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

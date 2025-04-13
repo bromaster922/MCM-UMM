@@ -1,0 +1,3712 @@
+{
+	"song": {
+		"player1": "bf_mcm",
+		"notes": [
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						19200,
+						2,
+						150,
+						"clarinet_notes"
+					],
+					[
+						19500,
+						0,
+						150,
+						"clarinet_notes"
+					],
+					[
+						19800,
+						1,
+						1350,
+						"clarinet_notes"
+					],
+					[
+						21300,
+						2,
+						150,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						21600,
+						0,
+						150,
+						"clarinet_notes"
+					],
+					[
+						21900,
+						1,
+						0,
+						"clarinet_notes"
+					],
+					[
+						22200,
+						2,
+						1050,
+						"clarinet_notes"
+					],
+					[
+						23400,
+						3,
+						150,
+						"clarinet_notes"
+					],
+					[
+						23700,
+						0,
+						150,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						24000,
+						2,
+						1050,
+						"clarinet_notes"
+					],
+					[
+						25200,
+						3,
+						450,
+						"clarinet_notes"
+					],
+					[
+						25800,
+						0,
+						450,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						26400,
+						2,
+						1050,
+						"clarinet_notes"
+					],
+					[
+						27600,
+						3,
+						450,
+						"clarinet_notes"
+					],
+					[
+						28200,
+						0,
+						450,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						28800,
+						2,
+						1050,
+						"clarinet_notes"
+					],
+					[
+						28800,
+						6,
+						150,
+						"clarinet_notes"
+					],
+					[
+						29100,
+						5,
+						0,
+						"clarinet_notes"
+					],
+					[
+						29400,
+						7,
+						150,
+						"clarinet_notes"
+					],
+					[
+						29700,
+						5,
+						0,
+						"clarinet_notes"
+					],
+					[
+						30000,
+						4,
+						0,
+						"clarinet_notes"
+					],
+					[
+						30300,
+						7,
+						150,
+						"clarinet_notes"
+					],
+					[
+						30600,
+						5,
+						0,
+						"clarinet_notes"
+					],
+					[
+						30900,
+						7,
+						150,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						31800,
+						3,
+						150,
+						"clarinet_notes"
+					],
+					[
+						32100,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						32400,
+						0,
+						150,
+						"clarinet_notes"
+					],
+					[
+						32700,
+						3,
+						150,
+						"clarinet_notes"
+					],
+					[
+						33000,
+						2,
+						150,
+						"clarinet_notes"
+					],
+					[
+						33300,
+						3,
+						150,
+						"clarinet_notes"
+					],
+					[
+						31200,
+						4,
+						150,
+						"clarinet_notes"
+					],
+					[
+						31500,
+						7,
+						0,
+						"clarinet_notes"
+					],
+					[
+						31800,
+						6,
+						150,
+						"clarinet_notes"
+					],
+					[
+						32100,
+						7,
+						0,
+						"clarinet_notes"
+					],
+					[
+						32400,
+						5,
+						450,
+						"clarinet_notes"
+					],
+					[
+						33000,
+						6,
+						450,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						33600,
+						2,
+						900,
+						"clarinet_notes"
+					],
+					[
+						33600,
+						5,
+						150,
+						"clarinet_notes"
+					],
+					[
+						33900,
+						4,
+						150,
+						"clarinet_notes"
+					],
+					[
+						34200,
+						7,
+						150,
+						"clarinet_notes"
+					],
+					[
+						34500,
+						5,
+						150,
+						"clarinet_notes"
+					],
+					[
+						34800,
+						4,
+						150,
+						"clarinet_notes"
+					],
+					[
+						35100,
+						6,
+						0,
+						"clarinet_notes"
+					],
+					[
+						35400,
+						5,
+						150,
+						"clarinet_notes"
+					],
+					[
+						35700,
+						7,
+						0,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						36600,
+						1,
+						150,
+						"clarinet_notes"
+					],
+					[
+						36900,
+						0,
+						0,
+						"clarinet_notes"
+					],
+					[
+						37200,
+						2,
+						150,
+						"clarinet_notes"
+					],
+					[
+						37500,
+						0,
+						0,
+						"clarinet_notes"
+					],
+					[
+						37800,
+						3,
+						150,
+						"clarinet_notes"
+					],
+					[
+						38100,
+						1,
+						0,
+						"clarinet_notes"
+					],
+					[
+						36000,
+						5,
+						150,
+						"clarinet_notes"
+					],
+					[
+						36300,
+						4,
+						0,
+						"clarinet_notes"
+					],
+					[
+						36600,
+						6,
+						150,
+						"clarinet_notes"
+					],
+					[
+						36900,
+						4,
+						0,
+						"clarinet_notes"
+					],
+					[
+						37200,
+						6,
+						450,
+						"clarinet_notes"
+					],
+					[
+						37800,
+						7,
+						450,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						38400,
+						2,
+						900,
+						"clarinet_notes"
+					],
+					[
+						39600,
+						3,
+						150,
+						"clarinet_notes"
+					],
+					[
+						39900,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						40200,
+						0,
+						150,
+						"clarinet_notes"
+					],
+					[
+						40500,
+						1,
+						0,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						40800,
+						0,
+						450,
+						"clarinet_notes"
+					],
+					[
+						41400,
+						2,
+						450,
+						"clarinet_notes"
+					],
+					[
+						42000,
+						1,
+						450,
+						"clarinet_notes"
+					],
+					[
+						42600,
+						3,
+						450,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						43200,
+						2,
+						1050,
+						"clarinet_notes"
+					],
+					[
+						44400,
+						3,
+						150,
+						"clarinet_notes"
+					],
+					[
+						44700,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						45000,
+						0,
+						150,
+						"clarinet_notes"
+					],
+					[
+						45300,
+						3,
+						0,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						45600,
+						2,
+						450,
+						"clarinet_notes"
+					],
+					[
+						46200,
+						1,
+						450,
+						"clarinet_notes"
+					],
+					[
+						46800,
+						0,
+						450,
+						"clarinet_notes"
+					],
+					[
+						47400,
+						3,
+						450,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						48000,
+						2,
+						900,
+						"clarinet_notes"
+					],
+					[
+						49200,
+						7,
+						150,
+						"clarinet_notes"
+					],
+					[
+						49500,
+						4,
+						0,
+						"clarinet_notes"
+					],
+					[
+						49800,
+						7,
+						150,
+						"clarinet_notes"
+					],
+					[
+						50100,
+						5,
+						0,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						50400,
+						7,
+						450,
+						"clarinet_notes"
+					],
+					[
+						51000,
+						5,
+						450,
+						"clarinet_notes"
+					],
+					[
+						51600,
+						6,
+						450,
+						"clarinet_notes"
+					],
+					[
+						52200,
+						4,
+						450,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						52800,
+						7,
+						750,
+						"clarinet_notes"
+					],
+					[
+						54000,
+						5,
+						150,
+						"clarinet_notes"
+					],
+					[
+						54300,
+						4,
+						0,
+						"clarinet_notes"
+					],
+					[
+						54600,
+						7,
+						0,
+						"clarinet_notes"
+					],
+					[
+						54900,
+						5,
+						0,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						55200,
+						6,
+						450,
+						"clarinet_notes"
+					],
+					[
+						55800,
+						7,
+						450,
+						"clarinet_notes"
+					],
+					[
+						56400,
+						5,
+						450,
+						"clarinet_notes"
+					],
+					[
+						57000,
+						4,
+						450,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						57600,
+						2,
+						150,
+						"clarinet_notes"
+					],
+					[
+						57900,
+						3,
+						0,
+						"clarinet_notes"
+					],
+					[
+						58200,
+						0,
+						150,
+						"clarinet_notes"
+					],
+					[
+						58500,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						58800,
+						3,
+						150,
+						"clarinet_notes"
+					],
+					[
+						59100,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						59250,
+						1,
+						0,
+						"clarinet_notes"
+					],
+					[
+						59400,
+						0,
+						150,
+						"clarinet_notes"
+					],
+					[
+						59700,
+						1,
+						0,
+						"clarinet_notes"
+					],
+					[
+						59850,
+						3,
+						0,
+						"clarinet_notes"
+					],
+					[
+						57600,
+						5,
+						750,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						60000,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						60150,
+						0,
+						0,
+						"clarinet_notes"
+					],
+					[
+						60300,
+						3,
+						0,
+						"clarinet_notes"
+					],
+					[
+						60600,
+						1,
+						0,
+						"clarinet_notes"
+					],
+					[
+						60900,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						61200,
+						3,
+						0,
+						"clarinet_notes"
+					],
+					[
+						61500,
+						1,
+						0,
+						"clarinet_notes"
+					],
+					[
+						61800,
+						0,
+						0,
+						"clarinet_notes"
+					],
+					[
+						62100,
+						1,
+						0,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						62400,
+						2,
+						150,
+						"clarinet_notes"
+					],
+					[
+						62700,
+						3,
+						0,
+						"clarinet_notes"
+					],
+					[
+						63000,
+						0,
+						150,
+						"clarinet_notes"
+					],
+					[
+						63300,
+						1,
+						0,
+						"clarinet_notes"
+					],
+					[
+						63600,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						63900,
+						1,
+						0,
+						"clarinet_notes"
+					],
+					[
+						64050,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						64200,
+						3,
+						0,
+						"clarinet_notes"
+					],
+					[
+						64500,
+						1,
+						150,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						64800,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						64950,
+						0,
+						0,
+						"clarinet_notes"
+					],
+					[
+						65100,
+						3,
+						150,
+						"clarinet_notes"
+					],
+					[
+						65400,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						65700,
+						0,
+						0,
+						"clarinet_notes"
+					],
+					[
+						65850,
+						1,
+						0,
+						"clarinet_notes"
+					],
+					[
+						66000,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						66300,
+						3,
+						150,
+						"clarinet_notes"
+					],
+					[
+						66600,
+						0,
+						0,
+						"clarinet_notes"
+					],
+					[
+						66900,
+						1,
+						150,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						67200,
+						5,
+						150,
+						"clarinet_notes"
+					],
+					[
+						67500,
+						7,
+						0,
+						"clarinet_notes"
+					],
+					[
+						67800,
+						6,
+						150,
+						"clarinet_notes"
+					],
+					[
+						68100,
+						7,
+						0,
+						"clarinet_notes"
+					],
+					[
+						68400,
+						5,
+						0,
+						"clarinet_notes"
+					],
+					[
+						68700,
+						7,
+						0,
+						"clarinet_notes"
+					],
+					[
+						68850,
+						5,
+						0,
+						"clarinet_notes"
+					],
+					[
+						69000,
+						4,
+						150,
+						"clarinet_notes"
+					],
+					[
+						69300,
+						6,
+						0,
+						"clarinet_notes"
+					],
+					[
+						69450,
+						5,
+						0,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						70200,
+						0,
+						150,
+						"clarinet_notes"
+					],
+					[
+						70500,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						70800,
+						3,
+						150,
+						"clarinet_notes"
+					],
+					[
+						71100,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						71400,
+						0,
+						150,
+						"clarinet_notes"
+					],
+					[
+						71700,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						69600,
+						4,
+						0,
+						"clarinet_notes"
+					],
+					[
+						69750,
+						7,
+						0,
+						"clarinet_notes"
+					],
+					[
+						69900,
+						6,
+						150,
+						"clarinet_notes"
+					],
+					[
+						70200,
+						5,
+						150,
+						"clarinet_notes"
+					],
+					[
+						70500,
+						4,
+						150,
+						"clarinet_notes"
+					],
+					[
+						70800,
+						5,
+						150,
+						"clarinet_notes"
+					],
+					[
+						71100,
+						7,
+						150,
+						"clarinet_notes"
+					],
+					[
+						71400,
+						6,
+						0,
+						"clarinet_notes"
+					],
+					[
+						71700,
+						7,
+						150,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						72000,
+						3,
+						900,
+						"clarinet_notes"
+					],
+					[
+						72000,
+						4,
+						150,
+						"clarinet_notes"
+					],
+					[
+						72300,
+						7,
+						150,
+						"clarinet_notes"
+					],
+					[
+						72600,
+						6,
+						0,
+						"clarinet_notes"
+					],
+					[
+						72900,
+						7,
+						150,
+						"clarinet_notes"
+					],
+					[
+						73200,
+						4,
+						150,
+						"clarinet_notes"
+					],
+					[
+						73500,
+						7,
+						0,
+						"clarinet_notes"
+					],
+					[
+						73650,
+						6,
+						0,
+						"clarinet_notes"
+					],
+					[
+						73800,
+						5,
+						0,
+						"clarinet_notes"
+					],
+					[
+						74100,
+						4,
+						150,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						75000,
+						2,
+						150,
+						"clarinet_notes"
+					],
+					[
+						75300,
+						3,
+						0,
+						"clarinet_notes"
+					],
+					[
+						75600,
+						0,
+						150,
+						"clarinet_notes"
+					],
+					[
+						75900,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						76200,
+						0,
+						150,
+						"clarinet_notes"
+					],
+					[
+						76500,
+						3,
+						0,
+						"clarinet_notes"
+					],
+					[
+						74400,
+						6,
+						0,
+						"clarinet_notes"
+					],
+					[
+						74550,
+						7,
+						0,
+						"clarinet_notes"
+					],
+					[
+						74700,
+						6,
+						0,
+						"clarinet_notes"
+					],
+					[
+						75000,
+						5,
+						0,
+						"clarinet_notes"
+					],
+					[
+						75300,
+						7,
+						0,
+						"clarinet_notes"
+					],
+					[
+						75450,
+						5,
+						0,
+						"clarinet_notes"
+					],
+					[
+						75600,
+						4,
+						0,
+						"clarinet_notes"
+					],
+					[
+						75900,
+						6,
+						150,
+						"clarinet_notes"
+					],
+					[
+						76200,
+						4,
+						150,
+						"clarinet_notes"
+					],
+					[
+						76500,
+						5,
+						150,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						76800,
+						1,
+						150,
+						"clarinet_notes"
+					],
+					[
+						77100,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						77400,
+						0,
+						0,
+						"clarinet_notes"
+					],
+					[
+						77700,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						78000,
+						1,
+						150,
+						"clarinet_notes"
+					],
+					[
+						78300,
+						3,
+						0,
+						"clarinet_notes"
+					],
+					[
+						78600,
+						0,
+						0,
+						"clarinet_notes"
+					],
+					[
+						78900,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						76800,
+						7,
+						1050,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						79200,
+						0,
+						0,
+						"clarinet_notes"
+					],
+					[
+						79350,
+						1,
+						0,
+						"clarinet_notes"
+					],
+					[
+						79500,
+						0,
+						150,
+						"clarinet_notes"
+					],
+					[
+						79800,
+						2,
+						150,
+						"clarinet_notes"
+					],
+					[
+						80100,
+						3,
+						150,
+						"clarinet_notes"
+					],
+					[
+						80400,
+						0,
+						150,
+						"clarinet_notes"
+					],
+					[
+						80700,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						81000,
+						1,
+						0,
+						"clarinet_notes"
+					],
+					[
+						81300,
+						2,
+						150,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						81600,
+						0,
+						150,
+						"clarinet_notes"
+					],
+					[
+						81900,
+						1,
+						0,
+						"clarinet_notes"
+					],
+					[
+						82200,
+						3,
+						0,
+						"clarinet_notes"
+					],
+					[
+						82500,
+						1,
+						0,
+						"clarinet_notes"
+					],
+					[
+						82800,
+						0,
+						150,
+						"clarinet_notes"
+					],
+					[
+						83100,
+						1,
+						0,
+						"clarinet_notes"
+					],
+					[
+						83400,
+						3,
+						0,
+						"clarinet_notes"
+					],
+					[
+						83700,
+						1,
+						0,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						84000,
+						0,
+						0,
+						"clarinet_notes"
+					],
+					[
+						84150,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						84300,
+						1,
+						150,
+						"clarinet_notes"
+					],
+					[
+						84600,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						84900,
+						3,
+						150,
+						"clarinet_notes"
+					],
+					[
+						85200,
+						0,
+						150,
+						"clarinet_notes"
+					],
+					[
+						85500,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						85800,
+						1,
+						0,
+						"clarinet_notes"
+					],
+					[
+						86100,
+						3,
+						0,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						86400,
+						6,
+						150,
+						"clarinet_notes"
+					],
+					[
+						86700,
+						7,
+						900,
+						"clarinet_notes"
+					],
+					[
+						86400,
+						2,
+						150,
+						"clarinet_notes"
+					],
+					[
+						86700,
+						0,
+						0,
+						"clarinet_notes"
+					],
+					[
+						87000,
+						1,
+						0,
+						"clarinet_notes"
+					],
+					[
+						87300,
+						0,
+						0,
+						"clarinet_notes"
+					],
+					[
+						87600,
+						2,
+						150,
+						"clarinet_notes"
+					],
+					[
+						87900,
+						1,
+						0,
+						"clarinet_notes"
+					],
+					[
+						88200,
+						0,
+						0,
+						"clarinet_notes"
+					],
+					[
+						88500,
+						1,
+						0,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						88800,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						88950,
+						0,
+						0,
+						"clarinet_notes"
+					],
+					[
+						89100,
+						1,
+						150,
+						"clarinet_notes"
+					],
+					[
+						89400,
+						2,
+						150,
+						"clarinet_notes"
+					],
+					[
+						89700,
+						0,
+						150,
+						"clarinet_notes"
+					],
+					[
+						90000,
+						1,
+						150,
+						"clarinet_notes"
+					],
+					[
+						90300,
+						0,
+						0,
+						"clarinet_notes"
+					],
+					[
+						90600,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						90900,
+						1,
+						150,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						91200,
+						2,
+						150,
+						"clarinet_notes"
+					],
+					[
+						91500,
+						1,
+						0,
+						"clarinet_notes"
+					],
+					[
+						91800,
+						3,
+						0,
+						"clarinet_notes"
+					],
+					[
+						92100,
+						1,
+						0,
+						"clarinet_notes"
+					],
+					[
+						92400,
+						2,
+						150,
+						"clarinet_notes"
+					],
+					[
+						92700,
+						1,
+						0,
+						"clarinet_notes"
+					],
+					[
+						93000,
+						3,
+						0,
+						"clarinet_notes"
+					],
+					[
+						93300,
+						1,
+						0,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						93600,
+						2,
+						150,
+						"clarinet_notes"
+					],
+					[
+						93900,
+						0,
+						0,
+						"clarinet_notes"
+					],
+					[
+						94200,
+						3,
+						150,
+						"clarinet_notes"
+					],
+					[
+						94500,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						94800,
+						1,
+						0,
+						"clarinet_notes"
+					],
+					[
+						95100,
+						0,
+						150,
+						"clarinet_notes"
+					],
+					[
+						95400,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						95700,
+						1,
+						150,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						96300,
+						0,
+						150,
+						"clarinet_notes"
+					],
+					[
+						96600,
+						2,
+						150,
+						"clarinet_notes"
+					],
+					[
+						96900,
+						3,
+						150,
+						"clarinet_notes"
+					],
+					[
+						97200,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						97500,
+						0,
+						150,
+						"clarinet_notes"
+					],
+					[
+						97800,
+						3,
+						0,
+						"clarinet_notes"
+					],
+					[
+						98100,
+						1,
+						0,
+						"clarinet_notes"
+					],
+					[
+						96000,
+						4,
+						600,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						98400,
+						2,
+						450,
+						"clarinet_notes"
+					],
+					[
+						99000,
+						0,
+						450,
+						"clarinet_notes"
+					],
+					[
+						99600,
+						3,
+						450,
+						"clarinet_notes"
+					],
+					[
+						100200,
+						1,
+						450,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						101100,
+						5,
+						150,
+						"clarinet_notes"
+					],
+					[
+						101400,
+						4,
+						0,
+						"clarinet_notes"
+					],
+					[
+						101700,
+						5,
+						150,
+						"clarinet_notes"
+					],
+					[
+						102000,
+						7,
+						0,
+						"clarinet_notes"
+					],
+					[
+						102300,
+						6,
+						150,
+						"clarinet_notes"
+					],
+					[
+						102600,
+						5,
+						0,
+						"clarinet_notes"
+					],
+					[
+						102900,
+						4,
+						150,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						103200,
+						6,
+						0,
+						"clarinet_notes"
+					],
+					[
+						103500,
+						7,
+						150,
+						"clarinet_notes"
+					],
+					[
+						103800,
+						5,
+						0,
+						"clarinet_notes"
+					],
+					[
+						104100,
+						7,
+						150,
+						"clarinet_notes"
+					],
+					[
+						104400,
+						5,
+						0,
+						"clarinet_notes"
+					],
+					[
+						104700,
+						4,
+						150,
+						"clarinet_notes"
+					],
+					[
+						105000,
+						7,
+						0,
+						"clarinet_notes"
+					],
+					[
+						105300,
+						6,
+						150,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						105900,
+						1,
+						0,
+						"clarinet_notes"
+					],
+					[
+						106200,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						106500,
+						1,
+						0,
+						"clarinet_notes"
+					],
+					[
+						107100,
+						3,
+						0,
+						"clarinet_notes"
+					],
+					[
+						107400,
+						0,
+						150,
+						"clarinet_notes"
+					],
+					[
+						107700,
+						1,
+						150,
+						"clarinet_notes"
+					],
+					[
+						105600,
+						4,
+						150,
+						"clarinet_notes"
+					],
+					[
+						105900,
+						7,
+						750,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						108000,
+						0,
+						0,
+						"clarinet_notes"
+					],
+					[
+						108300,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						108600,
+						3,
+						0,
+						"clarinet_notes"
+					],
+					[
+						108900,
+						2,
+						150,
+						"clarinet_notes"
+					],
+					[
+						109200,
+						0,
+						0,
+						"clarinet_notes"
+					],
+					[
+						109500,
+						3,
+						150,
+						"clarinet_notes"
+					],
+					[
+						109800,
+						2,
+						0,
+						"clarinet_notes"
+					],
+					[
+						110100,
+						3,
+						150,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						110400,
+						2,
+						1050,
+						"clarinet_notes"
+					],
+					[
+						110700,
+						5,
+						150,
+						"clarinet_notes"
+					],
+					[
+						111000,
+						4,
+						150,
+						"clarinet_notes"
+					],
+					[
+						111300,
+						5,
+						0,
+						"clarinet_notes"
+					],
+					[
+						111900,
+						5,
+						150,
+						"clarinet_notes"
+					],
+					[
+						112200,
+						4,
+						0,
+						"clarinet_notes"
+					],
+					[
+						112500,
+						5,
+						150,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						112800,
+						6,
+						150,
+						"clarinet_notes"
+					],
+					[
+						113100,
+						4,
+						0,
+						"clarinet_notes"
+					],
+					[
+						113400,
+						7,
+						0,
+						"clarinet_notes"
+					],
+					[
+						113700,
+						5,
+						150,
+						"clarinet_notes"
+					],
+					[
+						114000,
+						4,
+						0,
+						"clarinet_notes"
+					],
+					[
+						114300,
+						6,
+						150,
+						"clarinet_notes"
+					],
+					[
+						114600,
+						7,
+						0,
+						"clarinet_notes"
+					],
+					[
+						114900,
+						4,
+						150,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						115200,
+						6,
+						1050,
+						"clarinet_notes"
+					],
+					[
+						116400,
+						4,
+						0,
+						"clarinet_notes"
+					],
+					[
+						116700,
+						6,
+						150,
+						"clarinet_notes"
+					],
+					[
+						117000,
+						4,
+						0,
+						"clarinet_notes"
+					],
+					[
+						117300,
+						5,
+						150,
+						"clarinet_notes"
+					],
+					[
+						117000,
+						1,
+						150,
+						"Alt Animation"
+					],
+					[
+						117300,
+						3,
+						150,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						117600,
+						6,
+						900,
+						"clarinet_notes"
+					],
+					[
+						117600,
+						2,
+						1950,
+						"Alt Animation"
+					],
+					[
+						119651.25,
+						0,
+						0,
+						"Alt Animation"
+					],
+					[
+						119850,
+						3,
+						0,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						120000,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						120056.25,
+						0,
+						1050,
+						"Alt Animation"
+					],
+					[
+						121226.25,
+						1,
+						450,
+						"Alt Animation"
+					],
+					[
+						121833.75,
+						2,
+						150,
+						"Alt Animation"
+					],
+					[
+						122190,
+						1,
+						0,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						122400,
+						3,
+						1650,
+						"Alt Animation"
+					],
+					[
+						124200,
+						2,
+						450,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						124800,
+						0,
+						1650,
+						"Alt Animation"
+					],
+					[
+						126600,
+						2,
+						450,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						127200,
+						3,
+						450,
+						"Alt Animation"
+					],
+					[
+						128013.75,
+						0,
+						0,
+						"Alt Animation"
+					],
+					[
+						128193.75,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						128400,
+						1,
+						1650,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						130200,
+						2,
+						150,
+						"Alt Animation"
+					],
+					[
+						130590,
+						1,
+						0,
+						"Alt Animation"
+					],
+					[
+						130800,
+						3,
+						0,
+						"Alt Animation"
+					],
+					[
+						130848.75,
+						2,
+						300,
+						"Alt Animation"
+					],
+					[
+						131400,
+						1,
+						450,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						132000,
+						2,
+						1650,
+						"Alt Animation"
+					],
+					[
+						133800,
+						1,
+						450,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						135600,
+						4,
+						450,
+						"clarinet_notes"
+					],
+					[
+						136200,
+						6,
+						450,
+						"clarinet_notes"
+					],
+					[
+						134400,
+						2,
+						1050,
+						"Alt Animation"
+					],
+					[
+						135600,
+						3,
+						450,
+						"Alt Animation"
+					],
+					[
+						136200,
+						2,
+						450,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						136800,
+						4,
+						750,
+						"clarinet_notes"
+					],
+					[
+						137812.5,
+						6,
+						0,
+						"clarinet_notes"
+					],
+					[
+						137962.5,
+						5,
+						975,
+						"clarinet_notes"
+					],
+					[
+						136800,
+						3,
+						900,
+						"Alt Animation"
+					],
+					[
+						137850,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						138000,
+						1,
+						1050,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						139800,
+						5,
+						450,
+						"clarinet_notes"
+					],
+					[
+						140400,
+						6,
+						0,
+						"clarinet_notes"
+					],
+					[
+						140550,
+						7,
+						300,
+						"clarinet_notes"
+					],
+					[
+						141000,
+						6,
+						450,
+						"clarinet_notes"
+					],
+					[
+						139200,
+						0,
+						0,
+						"Alt Animation"
+					],
+					[
+						139350,
+						1,
+						0,
+						"Alt Animation"
+					],
+					[
+						139567.5,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						139770,
+						3,
+						0,
+						"Alt Animation"
+					],
+					[
+						139800,
+						0,
+						0,
+						"Alt Animation"
+					],
+					[
+						139995,
+						1,
+						0,
+						"Alt Animation"
+					],
+					[
+						140171.25,
+						3,
+						0,
+						"Alt Animation"
+					],
+					[
+						140355,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						140610,
+						1,
+						0,
+						"Alt Animation"
+					],
+					[
+						140793.75,
+						0,
+						0,
+						"Alt Animation"
+					],
+					[
+						141000,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						141221.25,
+						3,
+						0,
+						"Alt Animation"
+					],
+					[
+						141393.75,
+						1,
+						0,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						141600,
+						7,
+						900,
+						"clarinet_notes"
+					],
+					[
+						142650,
+						6,
+						0,
+						"clarinet_notes"
+					],
+					[
+						142800,
+						4,
+						1050,
+						"clarinet_notes"
+					],
+					[
+						141600,
+						2,
+						1050,
+						"Alt Animation"
+					],
+					[
+						142800,
+						3,
+						750,
+						"Alt Animation"
+					],
+					[
+						143786.25,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						143940,
+						1,
+						0,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						144000,
+						6,
+						450,
+						"clarinet_notes"
+					],
+					[
+						144600,
+						5,
+						450,
+						"clarinet_notes"
+					],
+					[
+						145200,
+						4,
+						450,
+						"clarinet_notes"
+					],
+					[
+						145800,
+						6,
+						300,
+						"clarinet_notes"
+					],
+					[
+						144000,
+						3,
+						1050,
+						"Alt Animation"
+					],
+					[
+						145200,
+						2,
+						450,
+						"Alt Animation"
+					],
+					[
+						145800,
+						1,
+						150,
+						"Alt Animation"
+					],
+					[
+						146193.75,
+						0,
+						0,
+						"Alt Animation"
+					],
+					[
+						146283.75,
+						1,
+						0,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						146400,
+						5,
+						900,
+						"clarinet_notes"
+					],
+					[
+						147450,
+						7,
+						0,
+						"clarinet_notes"
+					],
+					[
+						147600,
+						6,
+						1050,
+						"clarinet_notes"
+					],
+					[
+						146400,
+						2,
+						900,
+						"Alt Animation"
+					],
+					[
+						147450,
+						0,
+						0,
+						"Alt Animation"
+					],
+					[
+						147600,
+						1,
+						1050,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						149400,
+						4,
+						450,
+						"clarinet_notes"
+					],
+					[
+						150000,
+						7,
+						0,
+						"clarinet_notes"
+					],
+					[
+						150075,
+						6,
+						375,
+						"clarinet_notes"
+					],
+					[
+						150600,
+						4,
+						450,
+						"clarinet_notes"
+					],
+					[
+						149156.25,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						149400,
+						3,
+						150,
+						"Alt Animation"
+					],
+					[
+						149850,
+						0,
+						0,
+						"Alt Animation"
+					],
+					[
+						150000,
+						3,
+						0,
+						"Alt Animation"
+					],
+					[
+						150067.5,
+						1,
+						300,
+						"Alt Animation"
+					],
+					[
+						150600,
+						2,
+						450,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						151200,
+						6,
+						900,
+						"clarinet_notes"
+					],
+					[
+						152400,
+						4,
+						1050,
+						"clarinet_notes"
+					],
+					[
+						151200,
+						1,
+						900,
+						"Alt Animation"
+					],
+					[
+						152400,
+						2,
+						900,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						153600,
+						6,
+						1050,
+						"clarinet_notes"
+					],
+					[
+						154800,
+						4,
+						1050,
+						"clarinet_notes"
+					],
+					[
+						153600,
+						3,
+						0,
+						"Alt Animation"
+					],
+					[
+						153626.25,
+						2,
+						1050,
+						"Alt Animation"
+					],
+					[
+						154800,
+						3,
+						1050,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						156000,
+						6,
+						750,
+						"clarinet_notes"
+					],
+					[
+						156000,
+						1,
+						600,
+						"Alt Animation"
+					],
+					[
+						156802.5,
+						0,
+						0,
+						"Alt Animation"
+					],
+					[
+						157020,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						157200,
+						1,
+						450,
+						"Alt Animation"
+					],
+					[
+						157800,
+						3,
+						150,
+						"Alt Animation"
+					],
+					[
+						158182.5,
+						0,
+						0,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						158400,
+						1,
+						450,
+						"Alt Animation"
+					],
+					[
+						159000,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						159191.25,
+						1,
+						0,
+						"Alt Animation"
+					],
+					[
+						159386.25,
+						0,
+						0,
+						"Alt Animation"
+					],
+					[
+						159600,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						159840,
+						1,
+						0,
+						"Alt Animation"
+					],
+					[
+						160050,
+						3,
+						0,
+						"Alt Animation"
+					],
+					[
+						160233.75,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						160612.5,
+						1,
+						0,
+						"Alt Animation"
+					],
+					[
+						160650,
+						0,
+						750,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						161625,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						161797.5,
+						1,
+						0,
+						"Alt Animation"
+					],
+					[
+						162000,
+						3,
+						1050,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						163200,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						163233.75,
+						3,
+						600,
+						"Alt Animation"
+					],
+					[
+						164032.5,
+						1,
+						0,
+						"Alt Animation"
+					],
+					[
+						164193.75,
+						0,
+						0,
+						"Alt Animation"
+					],
+					[
+						164400,
+						1,
+						450,
+						"Alt Animation"
+					],
+					[
+						165000,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						165052.5,
+						3,
+						375,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						166200,
+						6,
+						0,
+						"clarinet_notes"
+					],
+					[
+						166350,
+						4,
+						0,
+						"clarinet_notes"
+					],
+					[
+						166575,
+						6,
+						0,
+						"clarinet_notes"
+					],
+					[
+						166800,
+						4,
+						0,
+						"clarinet_notes"
+					],
+					[
+						166950,
+						6,
+						0,
+						"clarinet_notes"
+					],
+					[
+						167175,
+						7,
+						0,
+						"clarinet_notes"
+					],
+					[
+						165600,
+						1,
+						1050,
+						"Alt Animation"
+					],
+					[
+						167400,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						167437.5,
+						3,
+						375,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						168600,
+						6,
+						0,
+						"clarinet_notes"
+					],
+					[
+						168750,
+						4,
+						0,
+						"clarinet_notes"
+					],
+					[
+						168975,
+						6,
+						0,
+						"clarinet_notes"
+					],
+					[
+						169200,
+						4,
+						0,
+						"clarinet_notes"
+					],
+					[
+						169400,
+						7,
+						0,
+						"clarinet_notes"
+					],
+					[
+						169575,
+						6,
+						0,
+						"clarinet_notes"
+					],
+					[
+						168000,
+						1,
+						1050,
+						"Alt Animation"
+					],
+					[
+						169800,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						169845,
+						3,
+						375,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						171000,
+						6,
+						0,
+						"clarinet_notes"
+					],
+					[
+						171150,
+						4,
+						0,
+						"clarinet_notes"
+					],
+					[
+						171375,
+						7,
+						0,
+						"clarinet_notes"
+					],
+					[
+						171600,
+						4,
+						0,
+						"clarinet_notes"
+					],
+					[
+						171750,
+						6,
+						0,
+						"clarinet_notes"
+					],
+					[
+						171975,
+						4,
+						0,
+						"clarinet_notes"
+					],
+					[
+						170400,
+						2,
+						1050,
+						"Alt Animation"
+					],
+					[
+						172200,
+						3,
+						450,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						173400,
+						6,
+						0,
+						"clarinet_notes"
+					],
+					[
+						173625,
+						7,
+						0,
+						"clarinet_notes"
+					],
+					[
+						173775,
+						6,
+						0,
+						"clarinet_notes"
+					],
+					[
+						174000,
+						4,
+						0,
+						"clarinet_notes"
+					],
+					[
+						174200,
+						5,
+						0,
+						"clarinet_notes"
+					],
+					[
+						174350,
+						6,
+						0,
+						"clarinet_notes"
+					],
+					[
+						174600,
+						4,
+						0,
+						"clarinet_notes"
+					],
+					[
+						174800,
+						6,
+						0,
+						"clarinet_notes"
+					],
+					[
+						175000,
+						4,
+						0,
+						"clarinet_notes"
+					],
+					[
+						172800,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						172950,
+						0,
+						0,
+						"Alt Animation"
+					],
+					[
+						173100,
+						1,
+						0,
+						"Alt Animation"
+					],
+					[
+						173250,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						173400,
+						3,
+						0,
+						"Alt Animation"
+					],
+					[
+						173550,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						173700,
+						0,
+						0,
+						"Alt Animation"
+					],
+					[
+						173850,
+						1,
+						0,
+						"Alt Animation"
+					],
+					[
+						174000,
+						0,
+						450,
+						"Alt Animation"
+					],
+					[
+						174600,
+						1,
+						0,
+						"Alt Animation"
+					],
+					[
+						174663.75,
+						3,
+						375,
+						"Alt Animation"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						175200,
+						2,
+						4350,
+						"Alt Animation"
+					],
+					[
+						175200,
+						5,
+						1500,
+						"clarinet_notes"
+					]
+				],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			}
+		],
+		"player2": "Squidward",
+		"gfVersion": "gf_mcm",
+		"events": [
+			[
+				135600,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bf_harmonica"
+					]
+				]
+			],
+			[
+				157200,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bf_mcm"
+					]
+				]
+			]
+		],
+		"song": "Humiliation",
+		"stage": "Outside",
+		"validScore": true,
+		"needsVoices": true,
+		"bpm": 100,
+		"speed": 1.5
+	}
+}

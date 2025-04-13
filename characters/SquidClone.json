@@ -1,0 +1,85 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				101
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				25
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-67,
+				48
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": true,
+	"healthicon_scale": 0,
+	"image": "characters/Surrogate/Impostward",
+	"position": [
+		90,
+		140
+	],
+	"healthicon": "impostward",
+	"flip_x": false,
+	"healthbar_colors": [
+		28,
+		143,
+		92
+	],
+	"camera_position": [
+		-150,
+		-50
+	],
+	"second_healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"sing_duration": 5.99999999999999,
+	"two_chars": false,
+	"scale": 0.7
+}

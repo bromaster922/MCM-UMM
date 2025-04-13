@@ -1,0 +1,84 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-67,
+				48
+			],
+			"fps": 24",
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle instance"
+		},
+		{
+			"offsets": [
+				106,
+				92
+			],
+			"indices": [],
+			"fps": 24",
+			"anim": "singUP",
+			"loop": false,
+			"name": "upimpward instance 1"
+		},
+		{
+			"offsets": [
+				213,
+				0
+			],
+			"indices": [],
+			"fps": 24",
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "leftimpward instance 1"
+		},
+		{
+			"offsets": [
+				11,
+				63
+			],
+			"indices": [],
+			"fps": 24",
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "rightimpward instance 1"
+		},
+		{
+			"offsets": [
+				18,
+				28
+			],
+			"indices": [],
+			"fps": 24",
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "downimpward instance 1"
+		}
+	],
+	"taunts": [
+		"hey",
+		"hey",
+		"hey",
+		"hey"
+	],
+	"no_antialiasing": false,
+	"image": "characters/Surrogate/Surrogate_Impward2",
+	"position": [
+		0,
+		230
+	],
+	"healthicon": "Impostward",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		10,
+		-100
+	],
+	"sing_duration": 5.4,
+	"scale": 1
+}

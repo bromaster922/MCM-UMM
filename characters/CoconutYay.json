@@ -1,0 +1,40 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "yay",
+			"fps": 31,
+			"name": "YM",
+			"indices": []
+		}
+	],
+	"taunts": [
+		"hey",
+		"hey",
+		"hey",
+		"hey"
+	],
+	"no_antialiasing": false,
+	"image": "characters/plagerize/yayme",
+	"position": [
+		-424,
+		-415
+	],
+	"healthicon": "coconut",
+	"flip_x": false,
+	"healthbar_colors": [
+		87,
+		56,
+		32
+	],
+	"camera_position": [
+		90,
+		250
+	],
+	"sing_duration": 4.7,
+	"scale": 1
+}

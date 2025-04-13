@@ -1,0 +1,123 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-600,
+				-240
+			],
+			"loop": false,
+			"anim": "danceLeft",
+			"fps": 30,
+			"name": "Idle",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"offsets": [
+				-600,
+				-240
+			],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 30,
+			"name": "Idle",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26
+			]
+		},
+		{
+			"offsets": [
+				-349,
+				19
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 40,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-440,
+				92
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 40,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-147,
+				-26
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 40,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-277,
+				-199
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 40,
+			"name": "Down",
+			"indices": []
+		}
+	],
+	"taunts": [
+		"hey",
+		"hey",
+		"hey",
+		"hey"
+	],
+	"no_antialiasing": false,
+	"image": "characters/Plagerize/coconut",
+	"position": [
+		-570,
+		-70
+	],
+	"healthicon": "coconut",
+	"flip_x": false,
+	"healthbar_colors": [
+		87,
+		56,
+		32
+	],
+	"camera_position": [
+		330,
+		120
+	],
+	"sing_duration": 4.7,
+	"scale": 1
+}
