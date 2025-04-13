@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				8,
 				32
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "surrsquid left"
+			"fps": 24,
+			"name": "surrsquid left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				10,
 				-18
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "surrsquid down"
+			"fps": 24,
+			"name": "surrsquid down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-8,
 				36
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "surrsquid up"
+			"fps": 24,
+			"name": "surrsquid up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-46,
 				24
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "surrsquid right"
+			"fps": 24,
+			"name": "surrsquid right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-11,
 				35
 			],
-			"indices": [],
-			"fps": 25,
 			"anim": "idle",
-			"loop": false,
-			"name": "surrsquid idle"
+			"fps": 25,
+			"name": "surrsquid idle",
+			"indices": []
 		}
 	],
 	"taunts": [
@@ -65,8 +65,8 @@
 	"no_antialiasing": false,
 	"image": "characters/Surrogate/surrogate_squidward",
 	"position": [
-		-240,
-		-250
+		-290,
+		-210
 	],
 	"healthicon": "Squidward",
 	"flip_x": true,

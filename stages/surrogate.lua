@@ -14,11 +14,11 @@ function onCreate()
 end
 
 function onCreatePost() 
-	setObjectOrder('dadGroup', 1)
+	setObjectOrder('dadGroup', 2)
 	if not getProperty('dad.Custom') then
 	characterRezise('dad', 1.3)
 	else
-	getCharacterY('dad', setCharacterY('dad', 850 - getProperty('dad.height')))
+	--getCharacterY('dad', setCharacterY('dad', 850 - getProperty('dad.height')))
 	characterRezise('dad', 0.8)
 	end
 	if getProperty('boyfriend.Custom') then
@@ -33,11 +33,12 @@ function onUpdate(elapsed)
 		if not phase2 then
 		setProperty('camFollow.x', 500)
 		setProperty('camFollow.y', 700)
+		setProperty('defaultCamZoom', 1.1)
 		else
 		setProperty('camFollow.x', 950)
-		setProperty('camFollow.y', 750)
+		setProperty('camFollow.y', 700)
+		setProperty('defaultCamZoom', 0.9)
 		end
-		setProperty('defaultCamZoom', 1.1)
 	end
 	if mustHitSection then
 		setProperty('camFollow.x', 1200)
@@ -48,25 +49,12 @@ end
 
 function onBeatHit()
 	if curBeat == 144 then
-		setObjectOrder('dadGroup', 2)
+		setObjectOrder('dadGroup', 3)
 		phase2 = true
 		getCharacterX('dad', setCharacterX('dad', 700))
-		setProperty('dad.y', getProperty('dad.y') + 10)
+		getCharacterY('dad', setCharacterY('dad', 480))
 		if not getProperty('dad.custom') then
 			setProperty('dad.y', getProperty('dad.y') - 140)
-			characterRezise('dad', 0.8)
-		else
-			characterRezise('dad', 0.9)	
-		end
-	end
-	if curBeat == 472 then
-		setObjectOrder('dadGroup', 2)
-		phase2 = true
-		getCharacterX('dad', setCharacterX('dad', 735))
-		setProperty('dad.y', getProperty('dad.y') + 100)
-		if not getProperty('dad.custom') then
-			setProperty('dad.y', getProperty('dad.y') - 100)
-			characterRezise('dad', 1)
 		else
 			characterRezise('dad', 1.1)	
 		end

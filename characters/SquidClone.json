@@ -1,63 +1,68 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				-57,
-				101
+				-50,
+				-99
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-66,
-				25
+				-165
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-29,
-				-7
+				-197
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-20,
-				50
+				-140
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
 		},
 		{
+			"loop": true,
 			"offsets": [
 				-67,
-				48
+				-142
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		}
 	],
+	"taunts": [
+		"hey",
+		"hey",
+		"hey",
+		"hey"
+	],
 	"no_antialiasing": true,
-	"healthicon_scale": 0,
 	"image": "characters/Surrogate/Impostward",
 	"position": [
 		90,
@@ -74,12 +79,6 @@
 		-150,
 		-50
 	],
-	"second_healthbar_colors": [
-		0,
-		0,
-		255
-	],
 	"sing_duration": 5.99999999999999,
-	"two_chars": false,
 	"scale": 0.7
 }
