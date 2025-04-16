@@ -58,14 +58,14 @@ function blinkFail() {
 }
 
 
-function onEvent(name, value1, value2) {
+function onCNEEvent(event) {
 	debugPrint('my balls itch');
-	debugPrint(name);
-	debugPrint(value1);
-	if (name == "HScript Call" && value1 == "blink") {
+	debugPrint(event.name);
+	debugPrint(event.params[0]);
+	if (event.name == "HScript Call" && event.params[0] == "blink") {
 		blink();
 	}
-	if (name == "HScript Call" && value1 == "blinkPhase") {
+	if (event.name == "HScript Call" && event.params[0] == "blinkPhase") {
 		blinkPhase();
 	}
 }
