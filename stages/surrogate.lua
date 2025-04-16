@@ -19,7 +19,7 @@ function onCreatePost()
 	characterRezise('dad', 1.3)
 	else
 	--getCharacterY('dad', setCharacterY('dad', 850 - getProperty('dad.height')))
-	--characterRezise('dad', 0.8)
+	characterRezise('dad', 0.8)
 	end
 	if getProperty('boyfriend.Custom') then
 	getCharacterY('boyfriend', setCharacterY('boyfriend', 1100 - getProperty('boyfriend.height')))
@@ -53,11 +53,10 @@ function onBeatHit()
 		phase2 = true
 		getCharacterX('dad', setCharacterX('dad', 700))
 		getCharacterY('dad', setCharacterY('dad', 480))
-		if not getProperty('dad.custom') then
-			setProperty('dad.y', getProperty('dad.y') - 140)
-		else
+		if getProperty('dad.custom') then
 			characterRezise('dad', 0.9)
 		end
+		setProperty('dad.y', getProperty('dad.y') - 140)
 	end
 end
 
