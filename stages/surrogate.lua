@@ -19,7 +19,11 @@ function onCreatePost()
 	characterRezise('dad', 1.3)
 	else
 	--getCharacterY('dad', setCharacterY('dad', 850 - getProperty('dad.height')))
+<<<<<<< Updated upstream
 	characterRezise('dad', 0.8)
+=======
+	--characterRezise('dad', 0.8)
+>>>>>>> Stashed changes
 	end
 	if getProperty('boyfriend.Custom') then
 	getCharacterY('boyfriend', setCharacterY('boyfriend', 1100 - getProperty('boyfriend.height')))
@@ -31,18 +35,27 @@ function onUpdate(elapsed)
 	--debugPrint(mustHitSection)
 	if not mustHitSection then
 		if not phase2 then
+<<<<<<< Updated upstream
 		setProperty('camFollow.x', 500)
 		setProperty('camFollow.y', 700)
 		setProperty('defaultCamZoom', 1.1)
 		else
 		setProperty('camFollow.x', 950)
 		setProperty('camFollow.y', 700)
+=======
+		--setProperty('camFollow.x', 500)
+		--setProperty('camFollow.y', 700)
+		setProperty('defaultCamZoom', 1.1)
+		else
+		--setProperty('camFollow.x', 950)
+		--setProperty('camFollow.y', 700)
+>>>>>>> Stashed changes
 		setProperty('defaultCamZoom', 0.9)
 		end
 	end
 	if mustHitSection then
-		setProperty('camFollow.x', 1200)
-		setProperty('camFollow.y', 900)
+		--setProperty('camFollow.x', 1200)
+		--setProperty('camFollow.y', 900)
 		setProperty('defaultCamZoom', 0.7)
 	end
 end
@@ -56,7 +69,11 @@ function onBeatHit()
 		if not getProperty('dad.custom') then
 			setProperty('dad.y', getProperty('dad.y') - 140)
 		else
+<<<<<<< Updated upstream
 			characterRezise('dad', 1.1)	
+=======
+			characterRezise('dad', 0.9)	
+>>>>>>> Stashed changes
 		end
 	end
 end

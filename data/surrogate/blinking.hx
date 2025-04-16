@@ -31,7 +31,7 @@ function onUpdate(elapsed) {
 }
 
 function onBeatHit() {
-	if (curBeat == 140) blink();
+	//if (curBeat == 140) blink();
 }
 
 function blink() {
@@ -44,7 +44,28 @@ function blink() {
 	});
 }
 
+function blinkPhase() {
+	eyeTween.cancel();
+	eyeTween = FlxTween.num(720, 0, (Conductor.stepCrochet / 1000) * 16, {ease: FlxEase.circIn}, (val:Float) -> {eyePos = val;});
+	blinkTimer.start((Conductor.stepCrochet / 1000) * 16, () -> {
+		blinkFail();
+	});
+}
+
 function blinkFail() {
 	eyeTween.cancel();
-	eyeTween = FlxTween.num(0, 720, 0.2, {ease: FlxEase.quartOut}, (val:Float) -> {eyePos = val;});
+	eyeTween = FlxTween.num(0, 720, (Conductor.stepCrochet / 1000) * 0.5, {ease: FlxEase.quartOut}, (val:Float) -> {eyePos = val;});
+}
+
+
+function onEvent(name, value1, value2) {
+	debugPrint('my balls itch');
+	debugPrint(name);
+	debugPrint(value1);
+	if (name == "HScript Call" && value1 == "blink") {
+		blink();
+	}
+	if (name == "HScript Call" && value1 == "blinkPhase") {
+		blinkPhase();
+	}
 }

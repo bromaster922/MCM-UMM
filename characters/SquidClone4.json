@@ -1,0 +1,88 @@
+{
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"position": [
+		750,
+		200
+	],
+	"no_antialiasing": false,
+	"scale": 1,
+	"camera_position": [
+		340,
+		-120
+	],
+	"image": "characters/Surrogate/BIGSOGGY",
+	"sing_duration": 8,
+	"healthicon": "SquidClone4",
+	"flip_x": false,
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-157,
+				-7
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0
+			],
+			"name": "BigSoggyReal"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				215
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				96
+			],
+			"name": "BigSoggyReal"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-255,
+				350
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				120
+			],
+			"name": "BigSoggyReal"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-70
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				144
+			],
+			"name": "BigSoggyReal"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				350
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				168
+			],
+			"name": "BigSoggyReal"
+		}
+	]
+}

@@ -1,59 +1,163 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [
-				-67,
-				48
+				136,
+				150
 			],
-			"fps": 24",
-			"anim": "idle",
-			"indices": [],
-			"name": "Idle instance"
-		},
-		{
-			"offsets": [
-				106,
-				92
-			],
-			"indices": [],
-			"fps": 24",
+			"loop": false,
 			"anim": "singUP",
-			"loop": false,
-			"name": "upimpward instance 1"
+			"fps": 40,
+			"name": "Up",
+			"indices": []
 		},
 		{
 			"offsets": [
-				213,
-				0
+				196,
+				70
 			],
-			"indices": [],
-			"fps": 24",
+			"loop": false,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "leftimpward instance 1"
+			"fps": 40,
+			"name": "Left",
+			"indices": []
 		},
 		{
 			"offsets": [
-				11,
-				63
+				-63,
+				81
 			],
-			"indices": [],
-			"fps": 24",
-			"anim": "singRIGHT",
 			"loop": false,
-			"name": "rightimpward instance 1"
+			"anim": "singRIGHT",
+			"fps": 40,
+			"name": "Right",
+			"indices": []
 		},
 		{
 			"offsets": [
-				18,
+				-32,
 				28
 			],
-			"indices": [],
-			"fps": 24",
-			"anim": "singDOWN",
 			"loop": false,
-			"name": "downimpward instance 1"
+			"anim": "singDOWN",
+			"fps": 40,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				420,
+				473
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 40,
+			"name": "Idle instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				136,
+				150
+			],
+			"loop": true,
+			"anim": "singUP-loop",
+			"fps": 30,
+			"name": "UpEffect instance 1",
+			"indices": [
+				5
+			]
+		},
+		{
+			"offsets": [
+				196,
+				70
+			],
+			"loop": true,
+			"anim": "singLEFT-loop",
+			"fps": 30,
+			"name": "LeftEffect instance 1",
+			"indices": [
+				4
+			]
+		},
+		{
+			"offsets": [
+				-63,
+				81
+			],
+			"loop": true,
+			"anim": "singRIGHT-loop",
+			"fps": 30,
+			"name": "RightEffect instance 1",
+			"indices": [
+				5
+			]
+		},
+		{
+			"offsets": [
+				-32,
+				28
+			],
+			"loop": true,
+			"anim": "singDOWN-loop",
+			"fps": 30,
+			"name": "downeffect instance 1",
+			"indices": [
+				5
+			]
+		},
+		{
+			"offsets": [
+				136,
+				150
+			],
+			"loop": false,
+			"anim": "singUP-release",
+			"fps": 40,
+			"name": "UpEffect instance 1",
+			"indices": [
+				8
+			]
+		},
+		{
+			"offsets": [
+				196,
+				70
+			],
+			"loop": false,
+			"anim": "singLEFT-release",
+			"fps": 40,
+			"name": "LeftEffect instance 1",
+			"indices": [
+				6
+			]
+		},
+		{
+			"offsets": [
+				-63,
+				81
+			],
+			"loop": false,
+			"anim": "singRIGHT-release",
+			"fps": 40,
+			"name": "RightEffect instance 1",
+			"indices": [
+				6
+			]
+		},
+		{
+			"offsets": [
+				-32,
+				28
+			],
+			"loop": false,
+			"anim": "singDOWN-release",
+			"fps": 40,
+			"name": "downeffect instance 1",
+			"indices": [
+				6
+			]
 		}
 	],
 	"taunts": [
@@ -63,22 +167,22 @@
 		"hey"
 	],
 	"no_antialiasing": false,
-	"image": "characters/Surrogate/Surrogate_Impward2",
+	"image": "characters/Surrogate/Impostward2",
 	"position": [
-		0,
-		230
+		-120,
+		200
 	],
-	"healthicon": "Impostward",
+	"healthicon": "SquidClone2",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		255,
-		255
+		47,
+		94,
+		92
 	],
 	"camera_position": [
-		10,
-		-100
+		-570,
+		-520
 	],
-	"sing_duration": 5.4,
+	"sing_duration": 5.6,
 	"scale": 1
 }

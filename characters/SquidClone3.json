@@ -1,0 +1,84 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-9,
+				34
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-42
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-52,
+				-32
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 30,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-8,
+				-4
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "right",
+			"indices": []
+		}
+	],
+	"taunts": [
+		"hey",
+		"hey",
+		"hey",
+		"hey"
+	],
+	"no_antialiasing": false,
+	"image": "characters/Surrogate/dirtysock",
+	"position": [
+		-630,
+		-470
+	],
+	"healthicon": "SquidClone3",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		141,
+		135
+	],
+	"camera_position": [
+		80,
+		240
+	],
+	"sing_duration": 5.2,
+	"scale": 0.799999999999999
+}
