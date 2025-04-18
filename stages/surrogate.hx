@@ -6,6 +6,8 @@ function onCreatePost() {
 	game.modchartSprites["SurroClone4"].alpha = 0.00001;
 	game.modchartSprites["SurroClone5"].alpha = 0.00001;
 	gf.alpha = 0;
+	game.defaultCamZoom = 1.0;
+	game.camGame.zoom = 1.0;
 }
 
 function onEvent(n, v1, v2) {
@@ -18,6 +20,9 @@ function onEvent(n, v1, v2) {
 		}
 		if (v1 == "1") {
 			game.defaultCamZoom = 0.7;
+		}
+		if (v1 == "2") {
+			game.defaultCamZoom = 0.8;
 		}
 	}
 }
