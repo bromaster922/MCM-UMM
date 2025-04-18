@@ -11,15 +11,12 @@ var blinkTimer:FlxTimer = new FlxTimer();
 var eyeTween:FlxTween = FlxTween.num();
 
 function onCreatePost() {
-	eyes = new FlxCamera();
-	eyes.bgColor = FlxColor.TRANSPARENT;
-	FlxG.cameras.add(eyes, false);
-	
 	for (eyelids in [eyelid1, eyelid2]) {
-	eyelids.cameras = [eyes];
+	eyelids.cameras = [camHUD];
 	eyelids.scale.set(2, 1);
 	eyelids.updateHitbox();
 	add(eyelids);
+	debugPrint("made the eyelids");
 	}
 
 	eyelid2.flipY = true;
@@ -28,6 +25,7 @@ function onCreatePost() {
 function onUpdate(elapsed) {
 	eyelid1.y = -eyePos;
 	eyelid2.y = eyePos;
+	//debugPrint(eyePos);
 }
 
 function onBeatHit() {
@@ -35,6 +33,7 @@ function onBeatHit() {
 }
 
 function blink() {
+	debugPrint("BLINKY BLINK!!!");
 	eyeTween.cancel();
 	eyeTween = FlxTween.num(720, 0, (Conductor.stepCrochet / 1000) * 16, {ease: FlxEase.circIn}, (val:Float) -> {eyePos = val;});
 	blinkTimer.start((Conductor.stepCrochet / 1000) * 16, () -> {
@@ -45,6 +44,7 @@ function blink() {
 }
 
 function blinkPhase() {
+	debugPrint("BLINKY BLINK!!!");
 	eyeTween.cancel();
 	eyeTween = FlxTween.num(720, 0, (Conductor.stepCrochet / 1000) * 16, {ease: FlxEase.circIn}, (val:Float) -> {eyePos = val;});
 	blinkTimer.start((Conductor.stepCrochet / 1000) * 16, () -> {

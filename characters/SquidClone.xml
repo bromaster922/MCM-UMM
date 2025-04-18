@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="90" y="140" sprite="Surrogate/Impostward" camx="265" icon="SquidClone" color="#2f5e5c" holdTime="6" isGF="false" iconoffsetx="0" iconoffsety="0">
+<character x="90" y="140" sprite="Surrogate/Impostward" camx="65" icon="SquidClone" color="#2f5e5c" holdTime="6" isGF="false" iconoffsetx="0" iconoffsety="0">
 	<anim name="singUP" anim="ImpostUp" x="-43" y="102" fps="24" loop="false"/>
 	<anim name="singLEFT" anim="ImpostLeft" x="137" y="84" fps="24" loop="false"/>
 	<anim name="singRIGHT" anim="ImpostRight" x="-25" y="84" fps="24" loop="false"/>

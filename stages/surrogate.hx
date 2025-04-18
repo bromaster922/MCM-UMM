@@ -12,14 +12,12 @@ function onEvent(n, v1, v2) {
 	debugPrint(n);
 	if (n == "CNE-Camera Movement") {
 		debugPrint("oh yeah!!!!!!!!!!!!!!!!!");
-		debugPrint("             THE VALUE IS: " + v1);
-		if (v1 == 0) {
-			game.defaultCamZoom = 0.7;
-			game.camGame.zoom = 0.7;
+		debugPrint("THE VALUE IS: " + v1);
+		if (v1 == "0") {
+			game.defaultCamZoom = 1.0;
 		}
-		if (v1 == 1) {
-			game.defaultCamZoom = 1.1;
-			game.camGame.zoom = 1.1;
+		if (v1 == "1") {
+			game.defaultCamZoom = 0.7;
 		}
 	}
 }
