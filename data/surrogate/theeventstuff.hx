@@ -1,6 +1,6 @@
 function onBeatHit() {
 	switch (curBeat) {
 		case 144:
-			triggerEvent('Change Character', 'Dad', 'SquidClone2');
+			game.triggerEvent('Change Character', 'Dad', 'SquidClone2');
 	}
 }
